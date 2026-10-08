@@ -1,0 +1,126 @@
+# ============================================================================
+# Celo agent-hackathon registry.
+# Adding a new hackathon = add one block here, then run:  python -m pipeline.add_hackathon <id>
+# The daily pipeline loops over every hackathon in this file; no code changes needed.
+#
+# type:
+#   project_submission -> self-reported project table (Real World, Synthesis). Metrics come
+#                         from the table's own tx column; no agent wallet on-chain (dev payout
+#                         wallets are NOT counted).
+#   erc8004            -> ERC-8004 agent registry. Agents identified by a curated agent_ids list;
+#                         wallet = dataset_agents.agentwallet. Metrics from the agent wallet.
+#   builder_code       -> builder-code allowlist (DeFAI, Agents at Work). Metrics from the
+#                         builder code UNION the agent wallet (and other_wallets), deduped.
+#
+# window: the hackathon's active months. Per-hackathon on-chain metrics are bounded to it.
+#         Program headline totals are all-time and live in the saved Dune query, not here.
+# ============================================================================
+
+zero_address: "0x0000000000000000000000000000000000000000"
+registry_address: "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"   # ERC-8004 Identity Registry (minters excluded as payers)
+
+# Lower bound for ALL cumulative on-chain metrics (tx, volume, users). One window for consistency.
+# Hackathons began Feb 2026; pre-2026 agent-wallet history is not hackathon activity.
+metrics_start: "2026-01-01"
+
+hackathons:
+  - id: rw_v1
+    seq: 1
+    name: "Agents for Real World v1"
+    month: "Feb 2026"
+    window: { start: "2026-02-01", end: "2026-03-01" }
+    type: project_submission
+    table: dune.celo.dataset_agent_hackathon_v1
+    columns:
+      project: projecttitle
+      github: githubrepositories
+      tx_count: celo_txs_feb_2026
+      active_flag: "celo_txs_feb_2026 > 0"
+    # recipient / projectpayoutaddress are dev payout wallets -> intentionally NOT used as handles
+
+  - id: rw_v2
+    seq: 2
+    name: "Agents for Real World v2"
+    month: "Mar 2026"
+    window: { start: "2026-03-01", end: "2026-04-01" }
+    type: project_submission
+    table: dune.celo.dataset_agents_real_world_v2
+    columns:
+      project: projecttitle
+      github: githubrepositories
+      tx_count: celo_txs_mar_2026
+      active_flag: "celo_txs_mar_2026 > 0"
+
+  - id: pos
+    seq: 3
+    name: "Proof of Ship AI Track"
+    month: "Apr 2026"
+    window: { start: "2026-04-01", end: "2026-05-01" }
+    type: erc8004
+    registry_table: dune.celo.dataset_agents
+    agent_ids: [9100, 9110, 6386, 9103, 9098, 9105, 9056, 9112, 9054, 9116, 9055, 187,
+                9144, 9059, 9119, 9150, 9145, 9148, 9099, 9147, 9165, 112, 9175, 131,
+                9149, 126, 9177, 9146, 9093, 9179, 9111]
+
+  - id: onchain
+    seq: 4
+    name: "AI Hackathon (Onchain)"
+    month: "May 2026"
+    window: { start: "2026-05-01", end: "2026-06-01" }
+    type: erc8004
+    registry_table: dune.celo.dataset_agents
+    agent_ids: [9099, 9221, 9180, 9188, 9186, 9225, 9220, 9226, 9229, 9112, 9239, 9300,
+                9209, 9182, 9223, 17, 1865, 9210, 187, 9051, 9308, 9231, 9268, 9274,
+                9382, 9339, 9230, 9378, 9373, 9365, 9146, 9387, 9396, 9313, 9237, 9228,
+                1853, 131, 9358, 9149, 9426]
+
+  - id: synthesis
+    seq: 5
+    name: "Synthesis Agentic"
+    month: "Jul 2026"
+    window: { start: "2026-07-01", end: "2026-08-01" }
+    type: project_submission
+    table: dune.celo.dataset_synthesis_submissions
+    columns:
+      project: project_slug
+      github: repo_url
+      tx_count: null        # no on-chain metric available for Synthesis
+      active_flag: null
+
+  - id: defai
+    seq: 6
+    name: "Agentic Payments & DeFAI"
+    month: "Jul-Aug 2026"
+    window: { start: "2026-07-01", end: "2026-09-01" }
+    type: builder_code
+    table: dune.celo.dataset_agentic_defai_allowlist
+    code_metric_hackathon: "defai"     # value of agent_daily_code_metric.hackathon
+    columns:
+      code: code
+      wallet: wallet
+      team: team
+      github: github_repo
+
+  - id: aaw
+    seq: 7
+    name: "Agents at Work"
+    month: "Aug-Sep 2026"
+    window: { start: "2026-08-01", end: "2026-10-01" }
+    type: builder_code
+    table: dune.celo.dataset_agents_at_work_allowlist
+    code_metric_hackathon: "agents_at_work"
+    columns:
+      code: code
+      wallet: wallet
+      other_wallets: other_wallets
+      team: team
+      project: project_name
+      github: github_repo
+
+# ---- Dune upload targets (tables replaced each run) -------------------------
+dune_upload:
+  namespace: celo            # tables live at dune.<namespace>.<table>
+  tables:
+    team_metrics: dataset_team_metrics
+    team_projects: dataset_team_projects
+    lena_worklist: dataset_lena_worklist

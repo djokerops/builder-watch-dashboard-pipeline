@@ -1,0 +1,2485 @@
+{
+ "T001": {
+  "name": "Esusu",
+  "codes": [
+   "celo_7ef320ce595a"
+  ],
+  "wallets": [
+   "4d4cc2e0c5cbc9737a0dec28d7c2510e2bef5a09",
+   "b82896c4f251ed65186b416dbdb6f6192dfaf926"
+  ]
+ },
+ "T002": {
+  "name": "Binary",
+  "codes": [
+   "celo_22480bd47654"
+  ],
+  "wallets": [
+   "1fac6dd78b1a36d9692e104bebcf28a27c5989be",
+   "3a3a9fd9df6b4eb1ddb6bf8a4e4d29756920cfe0",
+   "c2a4bbcb140138c1ee4a7832846ed02249a974e9",
+   "f60ee75327ec6d70126b7bfe2b4e2b39d95a3150"
+  ]
+ },
+ "T003": {
+  "name": "UniAgent",
+  "codes": [
+   "celo_e38cdd3210a6"
+  ],
+  "wallets": [
+   "ae3921825fec520cada98eb0790bc91a61d4286b"
+  ]
+ },
+ "T004": {
+  "name": "Remifi",
+  "codes": [
+   "celo_2febfd2084bb"
+  ],
+  "wallets": [
+   "b98cfac37b8bd7f549789718ac17f8aee7ce0c37"
+  ]
+ },
+ "T005": {
+  "name": "AbaPay",
+  "codes": [
+   "celo_9d71588659ec"
+  ],
+  "wallets": [
+   "42fa463798ed129a9b5ee51721cb6db1bfcbe3b9",
+   "5df8ae2b963165b735b18ca86b1ea448d2aa032c"
+  ]
+ },
+ "T006": {
+  "name": "SmartSettle",
+  "codes": [],
+  "wallets": [
+   "289769b63e4727616c340989e396fe69ab42ed93"
+  ]
+ },
+ "T007": {
+  "name": "Tycoon AI",
+  "codes": [
+   "celo_64b2c7f54cad",
+   "celo_e62d1c6c9f82"
+  ],
+  "wallets": [
+   "60029b49e057db6ba2eab6a08a08d2ecef80e2e4",
+   "fb0331d4f586d38df611e34b9bc77a99f96f09ee"
+  ]
+ },
+ "T008": {
+  "name": "Sentry",
+  "codes": [
+   "celo_e3cc4c8d8a0e"
+  ],
+  "wallets": [
+   "a1f70ffa4322e3609dd905b41f17bf3913366bc1"
+  ]
+ },
+ "T009": {
+  "name": "HashProof",
+  "codes": [
+   "celo_61eaf011b5a9"
+  ],
+  "wallets": [
+   "0a25c91209a158d0a4922837cdd590ace0d13f0d",
+   "6bd5c303b2ed7e264c1ce9d3592457292a1f1c43"
+  ]
+ },
+ "T010": {
+  "name": "Bureau",
+  "codes": [
+   "celo_2a3329b1d57c",
+   "celo_c45e8f941f0f"
+  ],
+  "wallets": [
+   "32a3596c25a98950e850e3531a0aa87f1506e5d7",
+   "7fb942ea48de75614a37a6c4cb6e600825dce03a",
+   "cde6151d2485b86db1d341dce65783736460f965",
+   "e23c44dd4a51456786c6681cfe928aacfa00d619",
+   "f70a02d74970faff6b0be6d0dd558965e1b4d855"
+  ]
+ },
+ "T011": {
+  "name": "agent_9308",
+  "codes": [
+   "celo_716fa1c99481"
+  ],
+  "wallets": [
+   "276c0439d4bce46d91a66d18f388e14eb685af6d",
+   "2b61fbdefef22abcc39645732a19842885f37f1c",
+   "2fb16d827d121ff8de79ce15741b8c7e4bbb00f1",
+   "30e6ef53593253854c2a31b3b8956174fe54a803",
+   "35ad620349c0bb02f92326d55a6decd6d737e938",
+   "35d067e04e0d4c3a07b550d42a5c87543228d1d1",
+   "510b4d61d09704ac64df318411579e727106bfb0",
+   "63712f0f0a8dbc11f95e31399b9c9a224ee36beb",
+   "7111d20fcf6bd84e398ab7940ce5a97981432954",
+   "8b71e56a150f372da9e151ad127b5f1f5e19b006",
+   "913ce7ad392c49ce517060ee64e85645c686f855",
+   "af6cf267edcc838aef9c47004596a741ff99c3a1"
+  ]
+ },
+ "T012": {
+  "name": "Merchant Agent",
+  "codes": [
+   "celo_64d533d628d1"
+  ],
+  "wallets": [
+   "53aa8c3ed977f5540b070703785726e5fcadc461"
+  ]
+ },
+ "T013": {
+  "name": "AgentHaus",
+  "codes": [],
+  "wallets": [
+   "53eaf4cd171842d8144e45211308e5d90b4b0088"
+  ]
+ },
+ "T014": {
+  "name": "agent_9221",
+  "codes": [
+   "celo_4ab365296ce4",
+   "celo_7b3c251337be"
+  ],
+  "wallets": [
+   "1724707c52de2fa65ad9c586b5d38507f52d3c06"
+  ]
+ },
+ "T015": {
+  "name": "CoinOp",
+  "codes": [
+   "celo_3dec652cd977",
+   "celo_d9e84ab061a2"
+  ],
+  "wallets": [
+   "01814520c5636f5ee7cf687e968e2efe568d309e",
+   "1696550581a484c71997c4e50fbc99fd350736da",
+   "2239ce58eaf1875ad097beebd5ddc433229bafca",
+   "2b33cb68c4d826a4fc36264bcdb46081c99f4f57",
+   "5dade63a1758bff54b6f609d7e29f623ed87bd24",
+   "64ad61211c1b0b7f20b3e04b49661f30f152ae78",
+   "66f744af7b1d1218031c83cb2c62eba7e6138ed8",
+   "94f7268ca8b29d536f8c5cd0753753d55fb06459",
+   "c4165fda7aedc388886cef9540448d32c0f4f8d8",
+   "c5edb509eb965e410e62c751306cd63f4b31414f",
+   "d44daf6db6c8057c206e6acc27e6384b8ec850d6"
+  ]
+ },
+ "T016": {
+  "name": "GameCity",
+  "codes": [
+   "celo_542fa605b973",
+   "celo_ac49c3b4e348"
+  ],
+  "wallets": [
+   "06efa70f3bfaa3aa539d6b7438032b925dffa878"
+  ]
+ },
+ "T017": {
+  "name": "Infinite Trade Agent",
+  "codes": [],
+  "wallets": [
+   "57176b05c2af84b6c41e633a9d641f2309ed0bcc"
+  ]
+ },
+ "T018": {
+  "name": "Saldito",
+  "codes": [],
+  "wallets": [
+   "19ec1797000f434eb2fd622e642bef80234425cb"
+  ]
+ },
+ "T019": {
+  "name": "SubBot @SubmanagerAgentBot",
+  "codes": [],
+  "wallets": [
+   "0067378592a4d0ccc3146dba13137e21589921ed"
+  ]
+ },
+ "T020": {
+  "name": "CYAN-OS",
+  "codes": [
+   "celo_2a314595f4a9"
+  ],
+  "wallets": [
+   "2d5e67d2d680368deebf6acc3d355dcc746897c4"
+  ]
+ },
+ "T021": {
+  "name": "APIS",
+  "codes": [
+   "celo_6b8b070e35df"
+  ],
+  "wallets": [
+   "02069c8afcec69622c0f1c5316735042a86bc6fa",
+   "a7a44b8870df8682693b64b2ebcacc7556349c9b"
+  ]
+ },
+ "T022": {
+  "name": "Comato",
+  "codes": [
+   "celo_5af7aa278c63"
+  ],
+  "wallets": [
+   "68a2cb5019bda4d4ffd8e394feb3355360490a2e"
+  ]
+ },
+ "T023": {
+  "name": "PsyLabs",
+  "codes": [
+   "celo_7b12194aeec1"
+  ],
+  "wallets": [
+   "0acf80b591ea0fe2cf9b1108ba9e4b278f3330ce"
+  ]
+ },
+ "T024": {
+  "name": "Playchessify",
+  "codes": [
+   "celo_5d5a7df8d3aa"
+  ],
+  "wallets": [
+   "0c959fb88611331f41bf7649e584856194ad339b",
+   "45489fd7e62981772641484dfe1698e481975ab9",
+   "4b4c90fcd03f0c60a069e7afe2c465dc4fdb8517",
+   "4d681ee521b3db745971fbf9a2f40d4816cec6c9",
+   "60af506797bc594b97b24cfec15bc9ce35bbfbf1",
+   "813a1bcb46957fee05c8558392caa28c9b539138",
+   "afda7a0158a19d2de3e8fc978ff597ae8e82ec41",
+   "b06bd029203aca8c79268ea550000e3afd7437ce",
+   "b6eb9444a4994a8295bd8ea626ce7672c174cec3",
+   "c26f8131f1531bb202e3213564357a09012bd0f2",
+   "c9d73b644b788a7cc30a5c3ed3c82e168510d0f4",
+   "e0b1798916e6026675f33fe5aafa0c203b77856d"
+  ]
+ },
+ "T025": {
+  "name": "Earnbase V2",
+  "codes": [
+   "celo_7a9925848ab1"
+  ],
+  "wallets": [
+   "4821ced48fb4456055c86e42587f61c1f39c6315"
+  ]
+ },
+ "T026": {
+  "name": "PerkyJobs",
+  "codes": [],
+  "wallets": [
+   "c2564e41b7f5cb66d2d99466450cfebce9e8228f"
+  ]
+ },
+ "T027": {
+  "name": "AjoAI",
+  "codes": [],
+  "wallets": [
+   "8974881e39a5ef62214929b6caa6ec0c6e7d47c7"
+  ]
+ },
+ "T028": {
+  "name": "Celo Engage Hub",
+  "codes": [],
+  "wallets": [
+   "09dfa0d77125978997dd9f94a0f870d3f2900da5"
+  ]
+ },
+ "T029": {
+  "name": "VibePay",
+  "codes": [],
+  "wallets": [
+   "b2adb77a837d19c3ada396db74483b05d49ad6b7"
+  ]
+ },
+ "T030": {
+  "name": "Micromind",
+  "codes": [],
+  "wallets": [
+   "1b8cbc7a0f928ca940bd1d2ae2c007b460fabd4d"
+  ]
+ },
+ "T031": {
+  "name": "agent_131",
+  "codes": [
+   "celo_26d5781f584b"
+  ],
+  "wallets": [
+   "b6bb848a8e00b77698cab1626c893dc8dde4927c",
+   "de25bf927c839355c66ee3551dae8a143bf85f9a"
+  ]
+ },
+ "T032": {
+  "name": "Jaahpay Agent",
+  "codes": [
+   "celo_cc9e2c49ca49"
+  ],
+  "wallets": [
+   "3e192d109d1dd323375ac1ed040f817918e82d63"
+  ]
+ },
+ "T033": {
+  "name": "agent_9382",
+  "codes": [],
+  "wallets": [
+   "7b054580aea6b6cbdf30bbbe84777bae623f4d1e"
+  ]
+ },
+ "T034": {
+  "name": "MARKOV",
+  "codes": [
+   "celo_8f1153358492"
+  ],
+  "wallets": [
+   "2e33d7d5fa3ed4dd6beb95cdc41f51635c4b7ad1"
+  ]
+ },
+ "T035": {
+  "name": "MoniBot",
+  "codes": [
+   "celo_43d45a3403c1",
+   "celo_b6186af7f424"
+  ],
+  "wallets": [
+   "dfa5fe220ce7c4bcbb1180686666b803dfae8ed3",
+   "fa2b8ed012f756e22e780b772d604af4575d5fcf"
+  ]
+ },
+ "T036": {
+  "name": "TriviaQ AI Agent",
+  "codes": [],
+  "wallets": [
+   "995ac10d5b6778b90ef060b7ab585d854c1ed914"
+  ]
+ },
+ "T037": {
+  "name": "solo",
+  "codes": [
+   "celo_2a23542d598e"
+  ],
+  "wallets": [
+   "eae6959be76b5f2ad2142a6fe5e4cf4f9ca45d26"
+  ]
+ },
+ "T038": {
+  "name": "agent_9223",
+  "codes": [],
+  "wallets": [
+   "84ac8cda7efc93f79ba3535fde2b200d9f2ac70f"
+  ]
+ },
+ "T039": {
+  "name": "conduit",
+  "codes": [],
+  "wallets": [
+   "65ea16a69e03500c7928be35461f1a53b820e6af"
+  ]
+ },
+ "T040": {
+  "name": "Regen Eliza",
+  "codes": [],
+  "wallets": [
+   "8922c8ac42ae84ced3a4e8d54ce7fcb3d52ebcb2"
+  ]
+ },
+ "T041": {
+  "name": "Clenja",
+  "codes": [
+   "celo_4a9c5140e885"
+  ],
+  "wallets": [
+   "6268689797ca15256af2ce922836cd69940fa024",
+   "c5337cee97ff5b190f26c4a12341dd210f26e17c"
+  ]
+ },
+ "T042": {
+  "name": "Thinkify",
+  "codes": [],
+  "wallets": [
+   "b94dc9152d1702e724b821174e9247364e677805"
+  ]
+ },
+ "T043": {
+  "name": "Agentic Eye",
+  "codes": [],
+  "wallets": [
+   "02e97e243204780842d5ca34dfef465a959b18b3"
+  ]
+ },
+ "T044": {
+  "name": "FX RemitBot",
+  "codes": [
+   "celo_700ce791cb2f"
+  ],
+  "wallets": [
+   "a1599790b763e537bd15b5b912012e5fb65491a3"
+  ]
+ },
+ "T045": {
+  "name": "CeloPulse Activity Agent",
+  "codes": [],
+  "wallets": [
+   "fd4960f33670f3477ebe817b184dd59fc4961437"
+  ]
+ },
+ "T046": {
+  "name": "Celina",
+  "codes": [
+   "celo_862c21dd97a7"
+  ],
+  "wallets": [
+   "68961ac3376fa6c2aa20689307be57f107031b31"
+  ]
+ },
+ "T047": {
+  "name": "MotusDAO Dapp",
+  "codes": [],
+  "wallets": [
+   "4a5ce41ed6383ee58a97eb3f0163d92562b2e0ae"
+  ]
+ },
+ "T048": {
+  "name": "MeetAmour",
+  "codes": [],
+  "wallets": [
+   "99b16591c5a11e4174f30d77f528edf122ae5b5c"
+  ]
+ },
+ "T049": {
+  "name": "GainForest",
+  "codes": [],
+  "wallets": [
+   "5a1f55459c07432165a93eac188076d2ecbf6814"
+  ]
+ },
+ "T050": {
+  "name": "Seaclaw",
+  "codes": [],
+  "wallets": [
+   "2131cc1df85ea0393d2c68daa0cefdd124b699a4"
+  ]
+ },
+ "T051": {
+  "name": "Chess Puzzles",
+  "codes": [
+   "celo_3c23bcbe9f16",
+   "celo_f54f9696da10"
+  ],
+  "wallets": [
+   "37cd1b7224d843553c361d29a0ece4419187666a",
+   "5e77ebd244b28934b17edc975224b2a5d8d85b05"
+  ]
+ },
+ "T052": {
+  "name": "CeloBank Agent",
+  "codes": [],
+  "wallets": [
+   "deacde6ec27fd0cd972c1232c4f0d4171dda2357"
+  ]
+ },
+ "T053": {
+  "name": "Agent47",
+  "codes": [
+   "celo_27c83ec5bb2f"
+  ],
+  "wallets": [
+   "101a82cb356ce2f616f28fc656ac949be687d639"
+  ]
+ },
+ "T054": {
+  "name": "Cracked studios",
+  "codes": [
+   "celo_47b016b552bb"
+  ],
+  "wallets": [
+   "0b5c2a7c6a06e9c5933c8fd3da3296ed9ccb23f2",
+   "97b1f2f3cf96a96b0e6a6a59334d745f79463720"
+  ]
+ },
+ "T055": {
+  "name": "Warrant",
+  "codes": [],
+  "wallets": [
+   "7273de585311a5139ef83f0f6dbb29f3e57b3389"
+  ]
+ },
+ "T056": {
+  "name": "Scout",
+  "codes": [
+   "celo_526904bdff24"
+  ],
+  "wallets": [
+   "99d9d4705720d05400da1a06e33c8870cd1b33dc"
+  ]
+ },
+ "T057": {
+  "name": "SplitPayAgent",
+  "codes": [],
+  "wallets": [
+   "6599d6e7af6b13a2fca80c7ca2035a94ee913293"
+  ]
+ },
+ "T058": {
+  "name": "SimplifAI",
+  "codes": [
+   "celo_c69852cc0f3f"
+  ],
+  "wallets": [
+   "c76ee8db7030a0b54643c43e05ba09925a349244"
+  ]
+ },
+ "T059": {
+  "name": "CeloDesk",
+  "codes": [
+   "celo_5ad8f72f8a99"
+  ],
+  "wallets": [
+   "00d1e86040d88397f4eb187c38dc527f6659e486"
+  ]
+ },
+ "T060": {
+  "name": "Synthetic",
+  "codes": [],
+  "wallets": [
+   "85a4b09fb0788f1c549a68dc2edae3f97aeb5dd7"
+  ]
+ },
+ "T061": {
+  "name": "Syra",
+  "codes": [
+   "celo_3ef93c3cb10b"
+  ],
+  "wallets": [
+   "d85ec8ecd3c04c4843d4e354f4dd95a081007dfa"
+  ]
+ },
+ "T062": {
+  "name": "HumanAgent",
+  "codes": [],
+  "wallets": [
+   "07fbca218b0a0a35244e0025a036fa85a6dc97dc"
+  ]
+ },
+ "T063": {
+  "name": "celo-track5-feedback",
+  "codes": [
+   "celo_81c9946a458e"
+  ],
+  "wallets": [
+   "3de917b93dae74b666e7d201f1ff825bcf68cef0"
+  ]
+ },
+ "T064": {
+  "name": "Zombie Plague",
+  "codes": [
+   "celo_c2d022d1d4ac"
+  ],
+  "wallets": [
+   "376dcf3b73978bb4f5c37646483f247007e884fd",
+   "b895af9aa23451314601822b403e4e6f7456e950",
+   "f78a9a1b314e5a415c25e3df9fddd66a84a0bce1"
+  ]
+ },
+ "T065": {
+  "name": "Agent Ada",
+  "codes": [
+   "celo_85cc21103f39"
+  ],
+  "wallets": [
+   "70f77a5c36ebd667360f6021bf4a95d274b3530e"
+  ]
+ },
+ "T066": {
+  "name": "Encode",
+  "codes": [
+   "celo_4bec1b4754cb"
+  ],
+  "wallets": [
+   "c61bbc0cf5694ef410a578a9833f77c173790450"
+  ]
+ },
+ "T067": {
+  "name": "SpendWise AI",
+  "codes": [
+   "celo_1af2a4f18910",
+   "celo_25db5a84f655"
+  ],
+  "wallets": [
+   "23fa4ab4796241e36e56928cc96cce56fcf47166"
+  ]
+ },
+ "T068": {
+  "name": "MasoMind Enterprise Agent",
+  "codes": [],
+  "wallets": [
+   "4f9b9c40345258684cfe23f02fdb2b88f1d2ea62"
+  ]
+ },
+ "T069": {
+  "name": "Tenda",
+  "codes": [
+   "celo_b395323d136c"
+  ],
+  "wallets": [
+   "041e487c82f364aefc17871f22ec997a50df5757",
+   "1f315cbfe7ff87c108f426e7ad61c6a7121e5b25",
+   "4222f6986e0628f0f7dbcdb58514cf10724bc20c",
+   "8792ed02eb25bec8a9e8ad96c48fdd08fa39ffb5",
+   "9f8a8a3805f0e2b54bb031eeeba2081323333647"
+  ]
+ },
+ "T070": {
+  "name": "agent_9231",
+  "codes": [],
+  "wallets": [
+   "46788b60daf46448668c7abaeea4ac8745451c25"
+  ]
+ },
+ "T071": {
+  "name": "agent_9110",
+  "codes": [],
+  "wallets": [
+   "5472effeab3b049be313d2ee885ff9711ea17e10"
+  ]
+ },
+ "T072": {
+  "name": "Cowrie",
+  "codes": [
+   "celo_e46217d1e056"
+  ],
+  "wallets": [
+   "c3a2ae793b4acc88620e538201913a7f042eda0d"
+  ]
+ },
+ "T073": {
+  "name": "FlashArt",
+  "codes": [],
+  "wallets": [
+   "3184fdc5e288619eb17127d32e373239ee8d7bb7"
+  ]
+ },
+ "T074": {
+  "name": "Bullet",
+  "codes": [],
+  "wallets": [
+   "d2651cd396dfbfab5eb04788c176bb5fe9018e44"
+  ]
+ },
+ "T075": {
+  "name": "BetOracle",
+  "codes": [],
+  "wallets": [
+   "3bfbe4e3dcc472e9b1bdfc0c177de3459cf769bf"
+  ]
+ },
+ "T076": {
+  "name": "ONE \u2014 Personal DeFi Agent on Celo",
+  "codes": [],
+  "wallets": [
+   "c6d7709dd8ba53832bd578a88260f8b8e59fb4c7"
+  ]
+ },
+ "T077": {
+  "name": "Sendo",
+  "codes": [
+   "celo_291c76e9ecab"
+  ],
+  "wallets": [
+   "6e4ebdbfb8d30e3c2439d8ad1dc7b23eda1c440f"
+  ]
+ },
+ "T078": {
+  "name": "Earmark",
+  "codes": [
+   "celo_c4e6d31d42c8"
+  ],
+  "wallets": [
+   "178977e82c4df50d5a7465f4495170dff9275363",
+   "909e4e085ea683194b8611b721b94ef9de1e45ca",
+   "c4f8f7507f4d573830f09b73086ce3ffdc0e4787",
+   "dce4e8055617d613b4311bd97fba0fe2926602b0"
+  ]
+ },
+ "T079": {
+  "name": "agent_9147",
+  "codes": [
+   "celo_a7cd3616d8b0"
+  ],
+  "wallets": [
+   "9cb49e92d3e6edfc4f8dca3e5a20c5b142fc4237",
+   "d9a109888e3e3cd7dffe2a686151cc4931e1c21c"
+  ]
+ },
+ "T080": {
+  "name": "Metron",
+  "codes": [
+   "celo_8190b99392a2",
+   "celo_91fed90b97fc"
+  ],
+  "wallets": [
+   "21e5fc03e4305cc8cfb874253c6d66a8bdb0bcda"
+  ]
+ },
+ "T081": {
+  "name": "AnyPay",
+  "codes": [
+   "celo_a1d871ce7f3a"
+  ],
+  "wallets": [
+   "facfe00760561fab2db764c6a4b2016b38d0e732"
+  ]
+ },
+ "T082": {
+  "name": "COP_BY",
+  "codes": [
+   "celo_5d1065133d9e"
+  ],
+  "wallets": [
+   "1f4d4b2820670b8ce7cc4e709fa06fa783f029d2"
+  ]
+ },
+ "T083": {
+  "name": "HackSight",
+  "codes": [],
+  "wallets": [
+   "babe714f243bc1ee1cb17772800096750a1d0c2f"
+  ]
+ },
+ "T084": {
+  "name": "Know Your Human",
+  "codes": [],
+  "wallets": [
+   "3c41f941098681bfdb14ed423709cc7c29c1e5e6"
+  ]
+ },
+ "T085": {
+  "name": "SocialClaw",
+  "codes": [],
+  "wallets": [
+   "de65b171718095d53c0d09610222045125931890"
+  ]
+ },
+ "T086": {
+  "name": "CowryPay",
+  "codes": [
+   "celo_9ef59d7031c8"
+  ],
+  "wallets": [
+   "04d8b8eae3466b97afe789b414861c3d06e246f2"
+  ]
+ },
+ "T087": {
+  "name": "Agent Fabric",
+  "codes": [
+   "celo_95e3047d9358"
+  ],
+  "wallets": [
+   "20ecae56e1c21a0d4079bdd0202d0fb6d1fd5000"
+  ]
+ },
+ "T088": {
+  "name": "SUBI Concierge Agent",
+  "codes": [
+   "celo_ac17e664a585"
+  ],
+  "wallets": [
+   "35422f585e1f570515147e557aef8fd6a6e1b3b3",
+   "93a844c5258c7c0d14608cbefaa377f6d6784ff8"
+  ]
+ },
+ "T089": {
+  "name": "Streamlivr",
+  "codes": [
+   "celo_afe6af2bc55d"
+  ],
+  "wallets": [
+   "4503f32dff9e54ee4c0fd9be25bcc662abb4c4bf",
+   "7a907d4669972fdb0230e3ed7bc80a48cc48db34",
+   "b8bb86b2649ef45c1514aaacaed389e8164b04ef",
+   "d460cdc2cbef980abae944c9ab438e0f069671f2",
+   "f5fe75828381b7e4881e8a5ab4575868a801038c"
+  ]
+ },
+ "T090": {
+  "name": "OrchestrAI",
+  "codes": [],
+  "wallets": [
+   "af108dd1ac530f1c4bded13f43e336a9cec92b44"
+  ]
+ },
+ "T091": {
+  "name": "HumanPay",
+  "codes": [
+   "celo_131f6e57e5b5"
+  ],
+  "wallets": [
+   "10b4064504d3d0d400a607164190b04de679a4a6",
+   "3360da7d976d7ed5fe79ee8022f539fb9af8f7c2"
+  ]
+ },
+ "T092": {
+  "name": "LexiPedia",
+  "codes": [
+   "celo_ff732ba4f443"
+  ],
+  "wallets": [
+   "f0bac1491dea4b975a3f5991a2c4b225e0456b63"
+  ]
+ },
+ "T093": {
+  "name": "Preflight",
+  "codes": [
+   "celo_80fe04c6accd"
+  ],
+  "wallets": [
+   "7a1f16230c5f3fd3b50c435fa93035ee789ee789"
+  ]
+ },
+ "T094": {
+  "name": "Bercy FX Orchestrator",
+  "codes": [
+   "celo_13bcb857b52f"
+  ],
+  "wallets": [
+   "85eb68dd5c2367f80e365ace2a2794fc108833cf"
+  ]
+ },
+ "T095": {
+  "name": "Biota Orquestador v1",
+  "codes": [],
+  "wallets": [
+   "1f90a029013609246573f8b3519c8e352333ab0c"
+  ]
+ },
+ "T096": {
+  "name": "Hexarena",
+  "codes": [
+   "celo_baf40ede1a50",
+   "celo_d9e61ce2001a"
+  ],
+  "wallets": [
+   "2254256d89f17789f112335d643f52d3b043df7e"
+  ]
+ },
+ "T097": {
+  "name": "Celo Agent Commerce",
+  "codes": [
+   "celo_4fc5832bc553"
+  ],
+  "wallets": [
+   "9bb10f0a8f1dbcb4f8ada8ddde7f62b9cf90e74b"
+  ]
+ },
+ "T098": {
+  "name": "DenScope - Trust Certificate Station (Celo)",
+  "codes": [],
+  "wallets": [
+   "0924d1afc2ecbd5257ee3b1302d978c3ffa7eba4"
+  ]
+ },
+ "T099": {
+  "name": "HumanOracle",
+  "codes": [],
+  "wallets": [
+   "dd07cc97ba8ff4147380926174cee8cd685aff16"
+  ]
+ },
+ "T100": {
+  "name": "SentinelPay",
+  "codes": [],
+  "wallets": [
+   "0fe3a9b6d34693e6e0ded6bd006dd062d6f59d2c"
+  ]
+ },
+ "T101": {
+  "name": "KaneAI",
+  "codes": [
+   "celo_ac1c160afeb3"
+  ],
+  "wallets": [
+   "c6332efc0412586ebdd9f747ddeed2886ad9c9eb"
+  ]
+ },
+ "T102": {
+  "name": "Compute Router",
+  "codes": [
+   "celo_9f3a3bce8894"
+  ],
+  "wallets": [
+   "d98e2ee165eceae767efd2f0a7952344465e1f88"
+  ]
+ },
+ "T103": {
+  "name": "SafeGate Commerce Agent",
+  "codes": [
+   "celo_4ab61e04b41b"
+  ],
+  "wallets": [
+   "9c9ef1b2f095ef3fbb1b0662326aa4b0d2bcd0f5"
+  ]
+ },
+ "T104": {
+  "name": "Ronpay",
+  "codes": [],
+  "wallets": [
+   "f58348c701e8567bbe4a8303d485f7995a949a1b"
+  ]
+ },
+ "T105": {
+  "name": "A-Identity",
+  "codes": [
+   "celo_a7531a8b8f9a"
+  ],
+  "wallets": [
+   "f43f43d8aee114a71b164e1f6214bc7625a5742d"
+  ]
+ },
+ "T106": {
+  "name": "StableFlow AI",
+  "codes": [
+   "celo_47ed288d83d3",
+   "celo_f276f0bd2126"
+  ],
+  "wallets": [
+   "b805efcda00ae07df354cf84566784cc1cbad5ef",
+   "fe3b557e8fb62b89f4916b721be55ceb828dbd73"
+  ]
+ },
+ "T107": {
+  "name": "ThothPay",
+  "codes": [
+   "celo_38d9e4de3b9f"
+  ],
+  "wallets": [
+   "cc4bcdd595ee20cfb8a214dc570ecb3fb1c1d3a1"
+  ]
+ },
+ "T108": {
+  "name": "CeloSentry",
+  "codes": [
+   "celo_77350de0a56b"
+  ],
+  "wallets": [
+   "bae72fdef2fc7f66ef626c5c18e09bc11d78d977"
+  ]
+ },
+ "T109": {
+  "name": "meRacle",
+  "codes": [],
+  "wallets": [
+   "1b94d56f723d8939661d94ed1f899c5c27136b2c"
+  ]
+ },
+ "T110": {
+  "name": "Reclaim",
+  "codes": [
+   "celo_b7de8bf7e64e"
+  ],
+  "wallets": [
+   "85522bde267d05bf8ce8813f97c75417b7894a33"
+  ]
+ },
+ "T111": {
+  "name": "CeloSense",
+  "codes": [],
+  "wallets": [
+   "701f6eab7854509a578143f51b2aec5bcc308de7"
+  ]
+ },
+ "T112": {
+  "name": "Celo Agent Lab",
+  "codes": [
+   "celo_c68db23b8b72"
+  ],
+  "wallets": [
+   "fcc0144395337d6c3f108af42212f4c49fc3d982"
+  ]
+ },
+ "T113": {
+  "name": "Cajero Artesania",
+  "codes": [],
+  "wallets": [
+   "d9c10131d92f50335569a48a4b58d74f1865da01"
+  ]
+ },
+ "T114": {
+  "name": "CeloTasker",
+  "codes": [
+   "celo_0c607ceeb1b3"
+  ],
+  "wallets": [
+   "ce09eaca93b372aab1346948410254b8e7f221a7"
+  ]
+ },
+ "T115": {
+  "name": "Magnum Inc.",
+  "codes": [
+   "celo_2e4520403c6b"
+  ],
+  "wallets": [
+   "2b47a78f5396b5f89340bdc00c2517966e4f19a8"
+  ]
+ },
+ "T116": {
+  "name": "Last Human Standing",
+  "codes": [
+   "celo_431e6208414d"
+  ],
+  "wallets": [
+   "cf34005917b4d39ae97696d14e979f335cd6b2f0"
+  ]
+ },
+ "T117": {
+  "name": "agent_9112",
+  "codes": [],
+  "wallets": [
+   "9600e1e61c5a412132f683b4df591669be7b1ee2"
+  ]
+ },
+ "T118": {
+  "name": "Maneki AI",
+  "codes": [
+   "celo_36c012f7e9dc"
+  ],
+  "wallets": [
+   "26523f5cea5da5d9411749afefe741ba340f6566",
+   "af6fa147e8f85781196627765fcafc1044f89308"
+  ]
+ },
+ "T119": {
+  "name": "Cense",
+  "codes": [
+   "celo_d73bff41d2b6"
+  ],
+  "wallets": [
+   "2f7c6472d72eff23e9cf8b13571a74c8389d9a54"
+  ]
+ },
+ "T120": {
+  "name": "FalconGuard",
+  "codes": [
+   "celo_3712ca0f1cdc",
+   "celo_4d19a013cc70"
+  ],
+  "wallets": [
+   "41dbdbbb116c5efb9c0290b9a4a61502361b5bb9"
+  ]
+ },
+ "T121": {
+  "name": "ReimburseAI",
+  "codes": [],
+  "wallets": [
+   "c8dcafedd535cfbfe190b24c7435f50cc7377468"
+  ]
+ },
+ "T122": {
+  "name": "Pulse",
+  "codes": [
+   "celo_810fcb3906cf"
+  ],
+  "wallets": [
+   "0b87bbf4343edccf05c8bdc6f3acdb8361cb661f"
+  ]
+ },
+ "T123": {
+  "name": "WeCrawl",
+  "codes": [
+   "celo_468e1efe7287"
+  ],
+  "wallets": [
+   "24c9deaf91f462ee6705f710c4d0aadcbd64b4e7"
+  ]
+ },
+ "T124": {
+  "name": "agent_9145",
+  "codes": [],
+  "wallets": [
+   "96fbc86fcf4eab5e94b7d74be1f8d135e8b9bfc3"
+  ]
+ },
+ "T125": {
+  "name": "Global Score Agent",
+  "codes": [
+   "celo_35509363f89f"
+  ],
+  "wallets": [
+   "f4d938200445b0df0f028af6d90d016147aed095"
+  ]
+ },
+ "T126": {
+  "name": "Sharetopus",
+  "codes": [
+   "celo_b0c70d869d1d"
+  ],
+  "wallets": [
+   "1061f932f43267c6115973d4a43ccbde31e43711",
+   "ca6128c424308ed91b6aad711d702723ff575415"
+  ]
+ },
+ "T127": {
+  "name": "Kippa",
+  "codes": [
+   "celo_83fb413dded5"
+  ],
+  "wallets": [
+   "66a4c73e7c02858b49f15fbc24589a76b97c0f5a"
+  ]
+ },
+ "T128": {
+  "name": "neco-reviewer",
+  "codes": [
+   "celo_2deed7a034aa"
+  ],
+  "wallets": [
+   "3f425d6ffd2855585483d65da684651e330759e0",
+   "7ffcad72cbe65d57c110e5c33f740feeb9ef7a25"
+  ]
+ },
+ "T129": {
+  "name": "cNGN BillPay",
+  "codes": [
+   "celo_b2b882552cbe"
+  ],
+  "wallets": [
+   "058fa8710b8da09f48b3b76d6a980fcc661934f7"
+  ]
+ },
+ "T130": {
+  "name": "Counted",
+  "codes": [
+   "celo_2806bab5cdcc"
+  ],
+  "wallets": [
+   "55100bebc1634705f21817943e5eedccb18c5726",
+   "7b4a0cb81cd4a0d12a89f23aeec110574afd997a"
+  ]
+ },
+ "T131": {
+  "name": "PayGee",
+  "codes": [
+   "celo_33078c309985"
+  ],
+  "wallets": [
+   "8e056cb829788507641ffbc066246fd6b1d08b04"
+  ]
+ },
+ "T132": {
+  "name": "Sivan AI",
+  "codes": [
+   "celo_bafcc2e56bd7"
+  ],
+  "wallets": [
+   "4a1a9cf30a86b2b333d1a743181aae71a50bafbc"
+  ]
+ },
+ "T133": {
+  "name": "AgentPay",
+  "codes": [
+   "celo_442daeb34ae2"
+  ],
+  "wallets": [
+   "a495eaff5809efb32beb6ecd18a48e9469acf121"
+  ]
+ },
+ "T134": {
+  "name": "MiniMate",
+  "codes": [],
+  "wallets": [
+   "721e885be237ef193807d7a912c201c6a53da522"
+  ]
+ },
+ "T135": {
+  "name": "TravelShield AI",
+  "codes": [],
+  "wallets": [
+   "31541c01bb04a76647fc40b8288e6fd7df919aae"
+  ]
+ },
+ "T136": {
+  "name": "Proof of Alpha",
+  "codes": [],
+  "wallets": [
+   "c4809e491b1ea88fdae63cfe9d7906f285b861c0"
+  ]
+ },
+ "T137": {
+  "name": "mailAgent",
+  "codes": [],
+  "wallets": [
+   "33741ca127df8256bdb24cd0f7b7ae91cdb6536a"
+  ]
+ },
+ "T138": {
+  "name": "Sub0",
+  "codes": [],
+  "wallets": [
+   "f0830060f836b8d54bf02049e5905f619487989e"
+  ]
+ },
+ "T139": {
+  "name": "TILL",
+  "codes": [
+   "celo_f30ff80110c6"
+  ],
+  "wallets": [
+   "2879fbd50abefb979270d2fffd34d9ce1cecff59"
+  ]
+ },
+ "T140": {
+  "name": "FlowMint",
+  "codes": [
+   "celo_c81681d9bae5"
+  ],
+  "wallets": [
+   "03a72b85e54519cd293a77eaa043ca5deeac73f4"
+  ]
+ },
+ "T141": {
+  "name": "AgentGuard",
+  "codes": [],
+  "wallets": [
+   "cf7d46393309a9e46b0a3ac3f6fb8a3ca3b5c029"
+  ]
+ },
+ "T142": {
+  "name": "CeloSave",
+  "codes": [
+   "celo_c05c6a967ebe"
+  ],
+  "wallets": [
+   "573e37c8e6d1c78c334d1a8beb7d1aaa2ba33a0b"
+  ]
+ },
+ "T143": {
+  "name": "Streams",
+  "codes": [
+   "celo_3530fb330ac1"
+  ],
+  "wallets": [
+   "b9fd87ebe4b19d714f5f6427563e7790654d3e71"
+  ]
+ },
+ "T144": {
+  "name": "Nadia from Tetrode",
+  "codes": [],
+  "wallets": [
+   "d62d8d8dcdea51a6709201d5485b5380e241c82c"
+  ]
+ },
+ "T145": {
+  "name": "GenTech x402 Gateway",
+  "codes": [
+   "celo_0f15aaf5158c"
+  ],
+  "wallets": [
+   "2dae01b88aea2dd06addfa589757777e8bee7fd1"
+  ]
+ },
+ "T146": {
+  "name": "alethe",
+  "codes": [
+   "celo_986d3cefe37d"
+  ],
+  "wallets": [
+   "01c3240515651abbbf5f8ac05e394037b3c19d15"
+  ]
+ },
+ "T147": {
+  "name": "Aegis",
+  "codes": [],
+  "wallets": [
+   "24a46a27047a5614334d117c785a7e0d5901b810"
+  ]
+ },
+ "T148": {
+  "name": "Karibu",
+  "codes": [],
+  "wallets": [
+   "1147856217691a72c96f36f04697abfb7305ef9f"
+  ]
+ },
+ "T149": {
+  "name": "agent_9051",
+  "codes": [],
+  "wallets": [
+   "fb2b4a71525b71bc0d4634e7d55c20235b63c3d4"
+  ]
+ },
+ "T150": {
+  "name": "SPUR",
+  "codes": [
+   "celo_2f0af2c5b513"
+  ],
+  "wallets": [
+   "0d09d1da79dbeca81f4c05b5f89024c0d5c8da12"
+  ]
+ },
+ "T151": {
+  "name": "Celo TrustAgent",
+  "codes": [],
+  "wallets": [
+   "d9bde6ab21d302427d6abc3466e1fb991cad6cff"
+  ]
+ },
+ "T152": {
+  "name": "DiversiFi - Multi-Chain AI Wealth Protection",
+  "codes": [
+   "celo_ce9e004195d5"
+  ],
+  "wallets": [
+   "5b33e63440e95289207120b94da78ce22f9d24fb"
+  ]
+ },
+ "T153": {
+  "name": "agent_9387",
+  "codes": [],
+  "wallets": [
+   "b9d0ccbf899d2505d62d124649f24689a0f03d60"
+  ]
+ },
+ "T154": {
+  "name": "Paylane",
+  "codes": [
+   "celo_003382274302"
+  ],
+  "wallets": [
+   "8aab2e27bd9ce18ca44722cce48adcc10df0c4c4"
+  ]
+ },
+ "T155": {
+  "name": "Intra Relay",
+  "codes": [
+   "celo_c237d3b3be9f"
+  ],
+  "wallets": [
+   "3390b7ba69ffcdb60c3d49f070c1b32b3aaa2986"
+  ]
+ },
+ "T156": {
+  "name": "Veridex",
+  "codes": [
+   "celo_ef9178addda4"
+  ],
+  "wallets": [
+   "ed1e7722c3fc67f31b9bcdcf7b71770bb2989321"
+  ]
+ },
+ "T157": {
+  "name": "Iwa",
+  "codes": [
+   "celo_448874a99d90"
+  ],
+  "wallets": [
+   "edc8f2db3e65a9379df91b214c0ed99b6b0b05c4"
+  ]
+ },
+ "T158": {
+  "name": "SLA-escrowed x402",
+  "codes": [
+   "celo_5ffb6e9c75fb"
+  ],
+  "wallets": [
+   "922184a4702f0df95fb86c3879bc3ed935b75721"
+  ]
+ },
+ "T159": {
+  "name": "Observed",
+  "codes": [
+   "celo_f07034d50007"
+  ],
+  "wallets": [
+   "556ff7dd2be1b504495288295ad7cc3d414dd2c0"
+  ]
+ },
+ "T160": {
+  "name": "Payflow",
+  "codes": [
+   "celo_6fc26fddcbef"
+  ],
+  "wallets": [
+   "dc3d00b921e0f1cbc7a4b05a4fb78c4dadbc5295"
+  ]
+ },
+ "T161": {
+  "name": "Celottery",
+  "codes": [],
+  "wallets": [
+   "3d5a8f83f825f4f36b145e1dad72e3f35a3030ab"
+  ]
+ },
+ "T162": {
+  "name": "Duka",
+  "codes": [
+   "celo_ec660205f1c4"
+  ],
+  "wallets": [
+   "413f08dc5c387d3ceb2e60508c85bb4416067339"
+  ]
+ },
+ "T163": {
+  "name": "Sarafu",
+  "codes": [
+   "celo_a2084f4b5b4b"
+  ],
+  "wallets": [
+   "73af2a4c7d902423e6dafc7d788a4b259f0de59c"
+  ]
+ },
+ "T164": {
+  "name": "agent_9056",
+  "codes": [],
+  "wallets": [
+   "fb226037b54b8782655b233f2a9590c0cf997f68"
+  ]
+ },
+ "T165": {
+  "name": "Savanna Finance",
+  "codes": [],
+  "wallets": [
+   "757de1048723381fceb0ddd301efc28eeed6760c"
+  ]
+ },
+ "T166": {
+  "name": "Ask",
+  "codes": [
+   "celo_be85689e2882"
+  ],
+  "wallets": [
+   "e626fc73e7fce36a2371d7b4f3482aed17308a77"
+  ]
+ },
+ "T167": {
+  "name": "agent_9365",
+  "codes": [],
+  "wallets": [
+   "a7cded275218a6d0e0b36391ddeb7986d2aea755"
+  ]
+ },
+ "T168": {
+  "name": "CeloNeutral Agent",
+  "codes": [],
+  "wallets": [
+   "a6a3bd6fb4623f61917abcd13b4c6fde3438ea77"
+  ]
+ },
+ "T169": {
+  "name": "Renda",
+  "codes": [
+   "celo_3609ffecf99f"
+  ],
+  "wallets": [
+   "a41af8ccd05519c547e55bd05457b587e523e1c6"
+  ]
+ },
+ "T170": {
+  "name": "Payflow Agent",
+  "codes": [],
+  "wallets": [
+   "84a768e1bb51c57c5d9e8617fbfaa7eccb44139d"
+  ]
+ },
+ "T171": {
+  "name": "LOOT",
+  "codes": [
+   "celo_1529b48ec655"
+  ],
+  "wallets": [
+   "5ee05590a78ddbc622602078b357b81c1bb4bf46"
+  ]
+ },
+ "T172": {
+  "name": "Claudelance Protocol Agent",
+  "codes": [],
+  "wallets": [
+   "1fedda23c2945d59f3929e6c463cf685ac077ad5"
+  ]
+ },
+ "T173": {
+  "name": "CeloMind",
+  "codes": [],
+  "wallets": [
+   "4cad8fac813f7436bac414d2c9426363567efe7f"
+  ]
+ },
+ "T174": {
+  "name": "spartandev",
+  "codes": [
+   "celo_e44984570763"
+  ],
+  "wallets": [
+   "c8a3cd40c0bdfc54b77e71253b78c2fa8b1e2560"
+  ]
+ },
+ "T175": {
+  "name": "BodegAgent",
+  "codes": [],
+  "wallets": [
+   "b1bca62de9e2280188fe5c55cf70b0f9d9a7702e"
+  ]
+ },
+ "T176": {
+  "name": "Natillera On-Chain",
+  "codes": [],
+  "wallets": [
+   "1d41e0a61ec1c632be4122dd17781e8f3580db4e"
+  ]
+ },
+ "T177": {
+  "name": "MiniRemit",
+  "codes": [
+   "celo_97f21f965c25"
+  ],
+  "wallets": [
+   "5f88e4aefd97c5be5fb88e56f07ca4105c3fa346"
+  ]
+ },
+ "T178": {
+  "name": "Sepakat",
+  "codes": [],
+  "wallets": [
+   "c633e52c5f2bd2e44cd7aa33455030219357f52c"
+  ]
+ },
+ "T179": {
+  "name": "agent_9226",
+  "codes": [],
+  "wallets": [
+   "67c3d27bd95af6b69d7058a98ae81bbdf1c1b7d1"
+  ]
+ },
+ "T180": {
+  "name": "CeloSeer",
+  "codes": [],
+  "wallets": [
+   "ed1b116f98b15412541f3621cbe2f7b886dd3f55"
+  ]
+ },
+ "T181": {
+  "name": "TrustGuard Router",
+  "codes": [],
+  "wallets": [
+   "2787ed719e5ca69ee4ef79d6da9bd9a8b86df544"
+  ]
+ },
+ "T182": {
+  "name": "Felix",
+  "codes": [
+   "celo_4258128defe4",
+   "celo_d8dbad912d79"
+  ],
+  "wallets": [
+   "85b604b159fbde416ef0457309d7bcb9d2a9a480"
+  ]
+ },
+ "T183": {
+  "name": "Meshforge",
+  "codes": [],
+  "wallets": [
+   "8a1179545b4ee36089401cd5025ee089338dd36a"
+  ]
+ },
+ "T184": {
+  "name": "ChamaAgent",
+  "codes": [],
+  "wallets": [
+   "60347c5337480460b7e274a3c05ebe445ec0b0b9"
+  ]
+ },
+ "T185": {
+  "name": "babycaisubagent-7558",
+  "codes": [],
+  "wallets": [
+   "bf0e0e7afde9b7f42f5d93d3aebde53af14bba70"
+  ]
+ },
+ "T186": {
+  "name": "Celo8004",
+  "codes": [],
+  "wallets": [
+   "4f9d4fe48d4f80c616785cb08db6e7be387e19bc"
+  ]
+ },
+ "T187": {
+  "name": "Or\u00e1culo",
+  "codes": [
+   "celo_98a4f889298f"
+  ],
+  "wallets": [
+   "92c2f838a27fd6123f68cd9a82be4d982cbe459b"
+  ]
+ },
+ "T188": {
+  "name": "SAM \u2014 Subscription Agentic Manager",
+  "codes": [],
+  "wallets": [
+   "3ea23aa1d53eb5209f014f02ca889a6a7b37eed0"
+  ]
+ },
+ "T189": {
+  "name": "CoverChain Claim Assistant",
+  "codes": [],
+  "wallets": [
+   "2fe4c9d996aa5cac672671432d75c103f918b6d4"
+  ]
+ },
+ "T190": {
+  "name": "Eazee",
+  "codes": [],
+  "wallets": [
+   "104da58e2b28cb5f0d78ccaa0bca0339e37131e1"
+  ]
+ },
+ "T191": {
+  "name": "Bravo (solo)",
+  "codes": [
+   "celo_8aa7596a04af"
+  ],
+  "wallets": [
+   "1c9d2c90a690fc6bd326034792bf87f5af32bb8e"
+  ]
+ },
+ "T192": {
+  "name": "Sentinel8004",
+  "codes": [],
+  "wallets": [
+   "f9946775891a24462cd4ec885d0d4e2675c84355"
+  ]
+ },
+ "T193": {
+  "name": "Toothless",
+  "codes": [
+   "celo_88a40472cfb1",
+   "celo_de96c3089fb7"
+  ],
+  "wallets": [
+   "477caed5f4cda9bc5b02dc638996507a28a746f4",
+   "5a8d4bf8989c65e3964e8e6cd82fc585ebc1ff7a"
+  ]
+ },
+ "T194": {
+  "name": "Grove Network",
+  "codes": [],
+  "wallets": [
+   "0013f4217f6a8b48a92f7ea5d811a5f8d8364b93"
+  ]
+ },
+ "T195": {
+  "name": "Meetup Celo: Discover CELO: The Green Blockchain",
+  "codes": [],
+  "wallets": [
+   "b3a84330b0c3cd838d9ed9edc59574207d6825d4"
+  ]
+ },
+ "T196": {
+  "name": "Celo Defi Agent",
+  "codes": [],
+  "wallets": [
+   "f2aeaa3dd5ce74be22b28640dc77eedda94f110e"
+  ]
+ },
+ "T197": {
+  "name": "Agentopolis",
+  "codes": [],
+  "wallets": [
+   "f338eafd317b834c5df48e1af80409b8236121ad"
+  ]
+ },
+ "T198": {
+  "name": "Celo Skill Router",
+  "codes": [],
+  "wallets": [
+   "ee8b59794ee3a6aeece9aa09a118bb6ba1029e3c"
+  ]
+ },
+ "T199": {
+  "name": "conquest-eth-for-lobsters",
+  "codes": [],
+  "wallets": [
+   "7773ae67403d2e30102a84c48cc939919c4c881c"
+  ]
+ },
+ "T200": {
+  "name": "Orba",
+  "codes": [],
+  "wallets": [
+   "f465e72a9a547f5c6e62a36a8c7b2733f52b4e30"
+  ]
+ },
+ "T201": {
+  "name": "AutoClaw",
+  "codes": [],
+  "wallets": [
+   "61b71cbce052c3a5f63f61457f1025e58412f6b3"
+  ]
+ },
+ "T202": {
+  "name": "Nastar Protocol",
+  "codes": [],
+  "wallets": [
+   "be1492003395bee51cb227c3dd9bd40631d89231"
+  ]
+ },
+ "T203": {
+  "name": "Sentinel8004",
+  "codes": [],
+  "wallets": [
+   "c82cbf2e6fd4822bd065754f19b001585c898e67"
+  ]
+ },
+ "T204": {
+  "name": "TeachAgent",
+  "codes": [],
+  "wallets": []
+ },
+ "T205": {
+  "name": "Pulse Remit",
+  "codes": [],
+  "wallets": [
+   "4d5ac8d9581137ed86ffd9c85539acabcfa16f64"
+  ]
+ },
+ "T206": {
+  "name": "SplitEasy Agent",
+  "codes": [],
+  "wallets": [
+   "6a5565999221ab61d2e9ac28cef1535464703aaf"
+  ]
+ },
+ "T207": {
+  "name": "Rafiki",
+  "codes": [],
+  "wallets": [
+   "99ca130b56428fdf76d6ee305b28ca05b0ca6275"
+  ]
+ },
+ "T208": {
+  "name": "Celo Real-World Savings & Discovery Agent",
+  "codes": [],
+  "wallets": [
+   "276bd8edb2f76e66413c3ef24f226ed05cf15a97"
+  ]
+ },
+ "T209": {
+  "name": "MyDay Agent",
+  "codes": [],
+  "wallets": [
+   "d642164193289e082ba9cc13577fc39fd6cd1bae"
+  ]
+ },
+ "T210": {
+  "name": "CeloFlow",
+  "codes": [],
+  "wallets": [
+   "3460c90e5a977ebce955af4fb83c86198bca348b"
+  ]
+ },
+ "T211": {
+  "name": "Youth Aligned Hub Uganda",
+  "codes": [],
+  "wallets": [
+   "4340f50da7015ed1da117b704d4714532d9c7193"
+  ]
+ },
+ "T212": {
+  "name": "B\u00f3kari",
+  "codes": [],
+  "wallets": [
+   "a4c84a87276fbfb7a83f236f1c084a6fa13d4332"
+  ]
+ },
+ "T213": {
+  "name": "Wage Flow",
+  "codes": [],
+  "wallets": [
+   "d64e59bb700d7bdf90d4c7a044ba521d8fc269e2"
+  ]
+ },
+ "T214": {
+  "name": "MarketMind",
+  "codes": [],
+  "wallets": [
+   "0347eedb0013ba2110600ece03d71cd2c1bc9279"
+  ]
+ },
+ "T215": {
+  "name": "Prosper",
+  "codes": [],
+  "wallets": [
+   "393dd3c775c4fd9e73da95509a19dff6e0309ebc"
+  ]
+ },
+ "T216": {
+  "name": "Sendio -AI agent Utility Payment",
+  "codes": [],
+  "wallets": [
+   "216adb896285ddba53bb215d0d5439113a515711"
+  ]
+ },
+ "T217": {
+  "name": "AI Micro-Savings Agent",
+  "codes": [],
+  "wallets": [
+   "08431ee8707832e2238b49ad943c82f2c0db5703"
+  ]
+ },
+ "T218": {
+  "name": "Ascend",
+  "codes": [],
+  "wallets": [
+   "97040811c26e86479d2ceb89328104698cb28576"
+  ]
+ },
+ "T219": {
+  "name": "0xGlobe",
+  "codes": [],
+  "wallets": [
+   "fab8309bb06512efabd04b3a0c0eaa300f54be6b"
+  ]
+ },
+ "T220": {
+  "name": "AegisAgent",
+  "codes": [],
+  "wallets": []
+ },
+ "T221": {
+  "name": "Agentic Swarm Marketplace",
+  "codes": [],
+  "wallets": [
+   "9681a0dc91f633102144cc1e809966fc107de911"
+  ]
+ },
+ "T222": {
+  "name": "AutoPilot",
+  "codes": [],
+  "wallets": [
+   "8da8e689269052125f8691af7d8a9e82b82d349f"
+  ]
+ },
+ "T223": {
+  "name": "Bumi Agent",
+  "codes": [],
+  "wallets": [
+   "9f1c7c394354ce22e8f5a853a86c13428439f026"
+  ]
+ },
+ "T224": {
+  "name": "ChainVerdict",
+  "codes": [],
+  "wallets": [
+   "3ae81e52020662fecc25330fad210dea99e95e1d"
+  ]
+ },
+ "T225": {
+  "name": "FreelancePay Agent",
+  "codes": [],
+  "wallets": [
+   "36aba8e34205ee8bb42a7212397933b9da83a273"
+  ]
+ },
+ "T226": {
+  "name": "Lookout",
+  "codes": [],
+  "wallets": [
+   "d40881edc6f15b6c9c18b85fbf20b612e60346a2"
+  ]
+ },
+ "T227": {
+  "name": "Memora on chain",
+  "codes": [],
+  "wallets": [
+   "c28be41174a0d0424bfd64422ad35d73fa54850a"
+  ]
+ },
+ "T228": {
+  "name": "PayAgent \u2013 AI-Powered Micro-Payment Agent.",
+  "codes": [],
+  "wallets": [
+   "26f7159d915bd51d625d6b655844d2dbd59c5437"
+  ]
+ },
+ "T229": {
+  "name": "Provena",
+  "codes": [],
+  "wallets": [
+   "9cb29246935e7951f54b7456448772c35b4a7079"
+  ]
+ },
+ "T230": {
+  "name": "REMITTANCE INTENT AGENT",
+  "codes": [],
+  "wallets": [
+   "ebf71ed4656e54e8b3b541542a2eb5def82d534c"
+  ]
+ },
+ "T231": {
+  "name": "AgentEscrow",
+  "codes": [],
+  "wallets": []
+ },
+ "T232": {
+  "name": "Bredo",
+  "codes": [],
+  "wallets": []
+ },
+ "T233": {
+  "name": "AegisAgent",
+  "codes": [],
+  "wallets": []
+ },
+ "T234": {
+  "name": "AfriPay Protocol",
+  "codes": [],
+  "wallets": []
+ },
+ "T235": {
+  "name": "AgentFlow",
+  "codes": [],
+  "wallets": []
+ },
+ "T236": {
+  "name": "AgentGuard",
+  "codes": [],
+  "wallets": []
+ },
+ "T237": {
+  "name": "AgentHands",
+  "codes": [],
+  "wallets": []
+ },
+ "T238": {
+  "name": "AgentLedger",
+  "codes": [],
+  "wallets": []
+ },
+ "T239": {
+  "name": "AgentMarket",
+  "codes": [],
+  "wallets": []
+ },
+ "T240": {
+  "name": "AgentNS v3",
+  "codes": [],
+  "wallets": []
+ },
+ "T241": {
+  "name": "Agentopolis",
+  "codes": [],
+  "wallets": []
+ },
+ "T242": {
+  "name": "AgentPact",
+  "codes": [],
+  "wallets": []
+ },
+ "T243": {
+  "name": "AgentPolis",
+  "codes": [],
+  "wallets": []
+ },
+ "T244": {
+  "name": "AgentScope",
+  "codes": [],
+  "wallets": []
+ },
+ "T245": {
+  "name": "AgentSkillz - Where AI Agents Trade Skills",
+  "codes": [],
+  "wallets": []
+ },
+ "T246": {
+  "name": "Agent Smith Celo \u2014 Micro-Lending Agent for Real-World Payments",
+  "codes": [],
+  "wallets": []
+ },
+ "T247": {
+  "name": "Agora.zk: The Sovereign Agentic Democracy",
+  "codes": [],
+  "wallets": []
+ },
+ "T248": {
+  "name": "aigora.org",
+  "codes": [],
+  "wallets": []
+ },
+ "T249": {
+  "name": "Anansi \u00d7 Ogma \u2014 Autonomous Cultural Intelligence on Celo",
+  "codes": [],
+  "wallets": []
+ },
+ "T250": {
+  "name": "APoW \u2014 AI Proof of Work Mining on Base",
+  "codes": [],
+  "wallets": []
+ },
+ "T251": {
+  "name": "Arena Play - Autonomous Agent Competition",
+  "codes": [],
+  "wallets": []
+ },
+ "T252": {
+  "name": "AskJeev",
+  "codes": [],
+  "wallets": []
+ },
+ "T253": {
+  "name": "AutoFund: The Self-Sustaining DeFi Agent",
+  "codes": [],
+  "wallets": []
+ },
+ "T254": {
+  "name": "Bagel Yieldbound",
+  "codes": [],
+  "wallets": []
+ },
+ "T255": {
+  "name": "Belle Epoch",
+  "codes": [],
+  "wallets": []
+ },
+ "T256": {
+  "name": "Bioregional Commitment Routing",
+  "codes": [],
+  "wallets": []
+ },
+ "T257": {
+  "name": "Celo8004",
+  "codes": [],
+  "wallets": []
+ },
+ "T258": {
+  "name": "Celo Authority Ledger",
+  "codes": [],
+  "wallets": []
+ },
+ "T259": {
+  "name": "CeloFX",
+  "codes": [],
+  "wallets": []
+ },
+ "T260": {
+  "name": "Celo Payment Agent",
+  "codes": [],
+  "wallets": []
+ },
+ "T261": {
+  "name": "CeloRaffle",
+  "codes": [],
+  "wallets": []
+ },
+ "T262": {
+  "name": "CeloSwap",
+  "codes": [],
+  "wallets": []
+ },
+ "T263": {
+  "name": "Chai",
+  "codes": [],
+  "wallets": []
+ },
+ "T264": {
+  "name": "Cielo",
+  "codes": [],
+  "wallets": []
+ },
+ "T265": {
+  "name": "Context Mesh",
+  "codes": [],
+  "wallets": []
+ },
+ "T266": {
+  "name": "CryptoSkill \u2014 The App Store for Crypto AI Agents",
+  "codes": [],
+  "wallets": []
+ },
+ "T267": {
+  "name": "Darwin Protocol \u2014 Autonomous On-Chain DeFi Baskets",
+  "codes": [],
+  "wallets": []
+ },
+ "T268": {
+  "name": "[DELETED - Old Name]",
+  "codes": [],
+  "wallets": []
+ },
+ "T269": {
+  "name": "Delta Rail",
+  "codes": [],
+  "wallets": []
+ },
+ "T270": {
+  "name": "DOF \u2014 Deterministic Observability Framework",
+  "codes": [],
+  "wallets": []
+ },
+ "T271": {
+  "name": "EduChain",
+  "codes": [],
+  "wallets": []
+ },
+ "T272": {
+  "name": "Email Remittance Pro",
+  "codes": [],
+  "wallets": []
+ },
+ "T273": {
+  "name": "Etherland2",
+  "codes": [],
+  "wallets": []
+ },
+ "T274": {
+  "name": "EvolutionProof",
+  "codes": [],
+  "wallets": []
+ },
+ "T275": {
+  "name": "Fera Protocol \u2014 The Agentic Credit Layer on Celo",
+  "codes": [],
+  "wallets": []
+ },
+ "T276": {
+  "name": "ImpactLens - Autonomous Public Goods Grant Evaluation",
+  "codes": [],
+  "wallets": []
+ },
+ "T277": {
+  "name": "Jurex Network",
+  "codes": [],
+  "wallets": []
+ },
+ "T278": {
+  "name": "Kairen DealRail",
+  "codes": [],
+  "wallets": []
+ },
+ "T279": {
+  "name": "Know Your Human (KYH)",
+  "codes": [],
+  "wallets": []
+ },
+ "T280": {
+  "name": "LiquidAI \u2014 Agentic Treasury OS",
+  "codes": [],
+  "wallets": []
+ },
+ "T281": {
+  "name": "Lookout: Agent Trust Protocol",
+  "codes": [],
+  "wallets": []
+ },
+ "T282": {
+  "name": "Mandate Execution Layer",
+  "codes": [],
+  "wallets": []
+ },
+ "T283": {
+  "name": "Memory Kernel \u2014 Tree Presence",
+  "codes": [],
+  "wallets": []
+ },
+ "T284": {
+  "name": "minai",
+  "codes": [],
+  "wallets": []
+ },
+ "T285": {
+  "name": "MiniClaw",
+  "codes": [],
+  "wallets": []
+ },
+ "T286": {
+  "name": "Observer Protocol \u2014 The Trust Layer for Agentic Commerce",
+  "codes": [],
+  "wallets": []
+ },
+ "T287": {
+  "name": "OpenVPS \u2014 AI-Agent VPS Hosting via Machine Payments",
+  "codes": [],
+  "wallets": []
+ },
+ "T288": {
+  "name": "PayEasy Agent",
+  "codes": [],
+  "wallets": []
+ },
+ "T289": {
+  "name": "PulsePastures: High-Fidelity Cyber-Farming",
+  "codes": [],
+  "wallets": []
+ },
+ "T290": {
+  "name": "QueueKeeper",
+  "codes": [],
+  "wallets": []
+ },
+ "T291": {
+  "name": "RageQuit Escrow",
+  "codes": [],
+  "wallets": []
+ },
+ "T292": {
+  "name": "SentinelPay Agent",
+  "codes": [],
+  "wallets": []
+ },
+ "T293": {
+  "name": "ShelfPilot",
+  "codes": [],
+  "wallets": []
+ },
+ "T294": {
+  "name": "Shulam \u2014 Compliance Infrastructure for the Autonomous Agent Economy",
+  "codes": [],
+  "wallets": []
+ },
+ "T295": {
+  "name": "SliceShop",
+  "codes": [],
+  "wallets": []
+ },
+ "T296": {
+  "name": "Synthesis Alpha",
+  "codes": [],
+  "wallets": []
+ },
+ "T297": {
+  "name": "Synthlend",
+  "codes": [],
+  "wallets": []
+ },
+ "T298": {
+  "name": "Toppa \u2014 AI Agent for Real-World Payments on Celo",
+  "codes": [],
+  "wallets": []
+ },
+ "T299": {
+  "name": "Verato",
+  "codes": [],
+  "wallets": []
+ },
+ "T300": {
+  "name": "Veridex",
+  "codes": [],
+  "wallets": []
+ },
+ "T301": {
+  "name": "wayMint",
+  "codes": [],
+  "wallets": []
+ },
+ "T302": {
+  "name": "WZRD.work",
+  "codes": [],
+  "wallets": []
+ },
+ "T303": {
+  "name": "YieldGuard Autonomous Public Goods Swarm",
+  "codes": [],
+  "wallets": []
+ },
+ "T304": {
+  "name": "Zapp \u2014 Conversational Payments on Celo",
+  "codes": [],
+  "wallets": []
+ },
+ "T305": {
+  "name": "zkx402 \u2014 ZK-Verified Payment Protocol for AI Agents",
+  "codes": [],
+  "wallets": []
+ },
+ "T306": {
+  "name": "Loopuman",
+  "codes": [],
+  "wallets": []
+ },
+ "T307": {
+  "name": "Remifi (archived)",
+  "codes": [],
+  "wallets": []
+ },
+ "T308": {
+  "name": "Kareem Toheeb",
+  "codes": [
+   "celo_4f2497477ff6"
+  ],
+  "wallets": [
+   "7f3ce1fc7599012b7da97e1e14f5d33257a6e1f4"
+  ]
+ },
+ "T309": {
+  "name": "Yoel Alfonso",
+  "codes": [
+   "celo_2f10863ce6f7"
+  ],
+  "wallets": []
+ },
+ "T310": {
+  "name": "Paycon Labs",
+  "codes": [
+   "celo_52b6faa793f4"
+  ],
+  "wallets": []
+ },
+ "T311": {
+  "name": "devjaja",
+  "codes": [
+   "celo_d0d52665012f"
+  ],
+  "wallets": [
+   "2097796487bea53b00d1e6e2d3327d30bef08e3e"
+  ]
+ },
+ "T312": {
+  "name": "AgentMesh",
+  "codes": [
+   "celo_266a6aa0aec8"
+  ],
+  "wallets": [
+   "a45ef0fa6167cdbb16a4a9f5cc4ab190017643d4"
+  ]
+ },
+ "T313": {
+  "name": "Vorra",
+  "codes": [
+   "celo_5fdfafd97630"
+  ],
+  "wallets": []
+ },
+ "T314": {
+  "name": "Payforge",
+  "codes": [
+   "celo_3034d7ae2868"
+  ],
+  "wallets": []
+ },
+ "T315": {
+  "name": "RemesaFlow",
+  "codes": [
+   "celo_54c48c9cc7dd"
+  ],
+  "wallets": []
+ },
+ "T316": {
+  "name": "Okoye Emmanuel Obiajulu",
+  "codes": [
+   "celo_3bf30b29fbdd"
+  ],
+  "wallets": [
+   "57ec92c03fe91da56a3678f0b3f6f2b44f885c50"
+  ]
+ },
+ "T317": {
+  "name": "habuskid",
+  "codes": [
+   "celo_d0c97190b4c8"
+  ],
+  "wallets": []
+ },
+ "T318": {
+  "name": "Daniel Bryan Francia Asencio",
+  "codes": [
+   "celo_40935e67cc2f"
+  ],
+  "wallets": [
+   "444519d8149176ed817228b11dfb9695c3f1c877"
+  ]
+ },
+ "T319": {
+  "name": "Mustapha Fadhlullah",
+  "codes": [
+   "celo_71c7ca8f42df"
+  ],
+  "wallets": [
+   "4e5f3b5fab26e67225f2c9b730609872ae0eeed3"
+  ]
+ },
+ "T320": {
+  "name": "greyw0rks",
+  "codes": [
+   "celo_44d8c29b9bd0"
+  ],
+  "wallets": []
+ },
+ "T321": {
+  "name": "frekramp",
+  "codes": [
+   "celo_3db58d45dd95"
+  ],
+  "wallets": [
+   "6d3581d9a0fd562710ebae88d4b4b5a642357616"
+  ]
+ },
+ "T322": {
+  "name": "Solution Kanu",
+  "codes": [
+   "celo_5057b1f83b80"
+  ],
+  "wallets": [
+   "4c585c153bcd58b3fc94515b6cd7f1d4add9bdb0"
+  ]
+ },
+ "T323": {
+  "name": "riri_unfiltered",
+  "codes": [
+   "celo_bfaa70f03654"
+  ],
+  "wallets": [
+   "4f46e3a4742b8a99b2cd7d7838cb36f3b83da376"
+  ]
+ },
+ "T324": {
+  "name": "SinglePact",
+  "codes": [
+   "celo_95bbd3f0229b"
+  ],
+  "wallets": []
+ },
+ "T325": {
+  "name": "Davedave001",
+  "codes": [
+   "celo_75dfc6e4201f"
+  ],
+  "wallets": []
+ },
+ "T326": {
+  "name": "Aurum",
+  "codes": [
+   "celo_b25e164984e0"
+  ],
+  "wallets": [
+   "d9c3460f70772391c2d539563a9caf8709102414"
+  ]
+ },
+ "T327": {
+  "name": "AstraPay AI",
+  "codes": [
+   "celo_e4974bb62357"
+  ],
+  "wallets": [
+   "12bb68fa113fd7e1bc8e362b58a2595edb55b48e"
+  ]
+ },
+ "T328": {
+  "name": "POKA",
+  "codes": [
+   "celo_fb00f20ea4e8"
+  ],
+  "wallets": [
+   "26fe17768374a18db647b4c9edcdacff4fa98367"
+  ]
+ },
+ "T329": {
+  "name": "Houster",
+  "codes": [
+   "celo_b96c0bc1f3d4"
+  ],
+  "wallets": [
+   "2354eb5938358a7da5661b1cc8585176a6f730e4"
+  ]
+ },
+ "T330": {
+  "name": "Clawrence",
+  "codes": [],
+  "wallets": [
+   "89c27f76eef3e09d798fb06a66dd461d7d21f111"
+  ]
+ }
+}
