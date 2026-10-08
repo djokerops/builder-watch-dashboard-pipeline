@@ -19,9 +19,9 @@ def main():
         path = os.path.join(OUT, fname)
         with open(path) as f:
             text = f.read()
-        table = tables[key]
+        table = tables[key]   # upload name; Dune prepends "dataset_"
         resp = upload_csv(table, text, description=f"Builder Watchtower {key} (auto-refreshed daily)")
-        print(f"uploaded {fname} -> dune.{cfg['dune_upload']['namespace']}.{table}  {resp}")
+        print(f"uploaded {fname} -> dune.{cfg['dune_upload']['namespace']}.dataset_{table}  {resp}")
 
 
 if __name__ == "__main__":

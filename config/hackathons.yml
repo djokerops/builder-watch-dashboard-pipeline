@@ -118,9 +118,14 @@ hackathons:
       github: github_repo
 
 # ---- Dune upload targets (tables replaced each run) -------------------------
+# NOTE: these are the UPLOAD names (what you pass to the upload API / type in the UI).
+# Dune automatically prepends "dataset_", so the live tables become:
+#   team_metrics             -> dune.celo.dataset_team_metrics
+#   hackathon_team_projects  -> dune.celo.dataset_hackathon_team_projects
+#   team_worklist            -> dune.celo.dataset_team_worklist
 dune_upload:
-  namespace: celo            # tables live at dune.<namespace>.<table>
+  namespace: celo
   tables:
-    team_metrics: dataset_team_metrics
-    team_projects: dataset_team_projects
-    lena_worklist: dataset_lena_worklist
+    team_metrics: team_metrics
+    team_projects: hackathon_team_projects
+    lena_worklist: team_worklist

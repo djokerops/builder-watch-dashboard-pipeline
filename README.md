@@ -3,11 +3,14 @@
 Rebuilds the three Builder Watchtower tables from fresh on-chain data every day and uploads
 them to Dune, replacing the existing `dataset_*` tables.
 
-| Output CSV | Dune table | Grain |
-|---|---|---|
-| `team_metrics.csv` | `dune.celo.dataset_team_metrics` | one row per team (tx, volume, users, tier, score, recency) |
-| `team_projects_final.csv` | `dune.celo.dataset_team_projects` | one row per project (metadata + per-project tx/users) |
-| `lena_worklist.csv` | `dune.celo.dataset_lena_worklist` | one row per team (re-engagement worklist) |
+| Output CSV | Upload name | Live Dune table | Grain |
+|---|---|---|---|
+| `team_metrics.csv` | `team_metrics` | `dune.celo.dataset_team_metrics` | one row per team (tx, volume, users, tier, score, recency) |
+| `team_projects_final.csv` | `hackathon_team_projects` | `dune.celo.dataset_hackathon_team_projects` | one row per project (metadata + per-project tx/users) |
+| `lena_worklist.csv` | `team_worklist` | `dune.celo.dataset_team_worklist` | one row per team (re-engagement worklist) |
+
+> Dune prepends `dataset_` to the upload name automatically, so the config holds the names
+> **without** that prefix.
 
 ## Metric definitions (all wallet ∪ code, deduped)
 
