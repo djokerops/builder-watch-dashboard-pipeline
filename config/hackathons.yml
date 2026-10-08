@@ -129,3 +129,4 @@ dune_upload:
     team_metrics: team_metrics
     team_projects: hackathon_team_projects
     lena_worklist: team_worklist
+    headline: headline_totals          # -> dune.celo.dataset_headline_totals (one-row KPI table)

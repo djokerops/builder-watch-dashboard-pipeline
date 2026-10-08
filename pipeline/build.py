@@ -175,10 +175,28 @@ def main(dry_run=False):
              "onchain_txs_30d", "still_onchain_active", "n_wallets"]
     _write(os.path.join(OUT, "lena_worklist.csv"), wcols, sorted(teams, key=lambda z: z["team_id"]))
 
-    grand_u = next((r["users"] for r in user_rows if r["team"] == "ALL" and r["pid"] is None), None)
-    grand_v = next((r["vol"] for r in vol_rows if r["team"] == "ALL"), None)
+    # ---- headline (one row, program-wide DISTINCT totals) ----
+    grand_u = next((r["users"] for r in user_rows if r["team"] == "ALL" and r["pid"] is None), 0)
+    grand_tx = next((r["tx"] for r in tx_rows if r["team"] == "ALL" and r["pid"] is None), 0)
+    grand_v = next((r["vol"] for r in vol_rows if r["team"] == "ALL"), 0)
+    from collections import Counter
+    tcnt = Counter(t["value_tier"] for t in teams)
+    headline = {
+        "distinct_users": grand_u,
+        "distinct_tx": grand_tx,
+        "volume_usd": round(grand_v or 0, 2),
+        "total_fees_usd": round(sum(cfee.values()), 2),
+        "distinct_teams": len(teams),
+        "total_submissions": len(projects),
+        "returning_teams": sum(1 for t in teams if t["n_hackathons"] >= 2),
+        "production_teams": tcnt["Production"],
+        "traction_teams": tcnt["Traction"],
+        "refreshed_utc": date.today().isoformat(),
+    }
+    _write(os.path.join(OUT, "headline_totals.csv"), list(headline.keys()), [headline])
+
     print(f"built {len(teams)} teams, {len(tp_rows)} project rows")
-    print(f"headline distinct users={grand_u}  volume=${grand_v:,.0f}" if grand_u else "")
+    print(f"headline: users={grand_u}  tx={grand_tx}  volume=${(grand_v or 0):,.0f}  fees=${headline['total_fees_usd']}")
     return teams
 
 

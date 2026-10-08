@@ -14,6 +14,7 @@ def main():
         "team_metrics": "team_metrics.csv",
         "team_projects": "team_projects_final.csv",
         "lena_worklist": "lena_worklist.csv",
+        "headline": "headline_totals.csv",
     }
     for key, fname in files.items():
         path = os.path.join(OUT, fname)
