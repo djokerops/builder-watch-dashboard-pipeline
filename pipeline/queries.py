@@ -71,6 +71,21 @@ SELECT team, round(sum(amt),2) AS vol FROM teamv GROUP BY team
 UNION ALL SELECT 'ALL', round(sum(amt),2) FROM grand"""
 
 
+def proj_volume_sql(h, start="2026-01-01"):
+    """Per-project volume (distinct transfers by unique_key within each project)."""
+    return f"""WITH wmap(pid,wallet) AS (VALUES {','.join(f"({p},0x{w})" for p,_,w in h['proj_wallet_pairs'])}),
+cmap(pid,code) AS (VALUES {','.join(f"({p},'{c}')" for p,_,c in h['proj_code_pairs'])}),
+tagged AS (
+  SELECT m.pid, t.unique_key AS uk, t.amount_usd AS amt FROM tokens_celo.transfers t JOIN wmap m ON t."from"=m.wallet WHERE t.block_date>=DATE '{start}'
+  UNION ALL
+  SELECT m.pid, t.unique_key, t.amount_usd FROM tokens_celo.transfers t JOIN wmap m ON t.to=m.wallet WHERE t.block_date>=DATE '{start}'
+  UNION ALL
+  SELECT m.pid, t.unique_key, t.amount_usd FROM dune.celo.transfers_attributed t JOIN cmap m ON contains(split(t.multi_code,','),m.code) WHERE t.block_date>=DATE '{start}'
+),
+dedup AS (SELECT pid, uk, max(amt) AS amt FROM tagged GROUP BY pid, uk)
+SELECT CAST(pid AS varchar) AS pid, round(sum(amt),2) AS vol FROM dedup GROUP BY pid"""
+
+
 def status_sql(h, start="2026-01-01"):
     """Per-team wallet recency: last tx date and tx count in the last 30 days."""
     return f"""WITH wmap(team,wallet) AS (VALUES {_team_wv(h['team_wallets'])}),

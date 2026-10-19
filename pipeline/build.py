@@ -63,6 +63,7 @@ def main(dry_run=False):
     tx_rows = step("tx", Q.tx_sql(h, START))
     user_rows = step("users", Q.users_sql(h, START))
     vol_rows = step("volume", Q.volume_sql(h, START))
+    pvol_rows = step("proj_volume", Q.proj_volume_sql(h, START))
     status_rows = step("status", Q.status_sql(h, START))
     code_status = step("code_status", Q.code_status_sql(h)) if Q.code_status_sql(h) else []
     fee_rows = step("fees", Q.fees_sql(h)) if Q.fees_sql(h) else []
@@ -82,6 +83,7 @@ def main(dry_run=False):
         elif r["pid"] is not None:
             proj_users[pid_map[int(r["pid"])]] = r["users"] or 0
     team_vol = {r["team"]: (r["vol"] or 0) for r in vol_rows if r["team"] != "ALL"}
+    proj_vol = {pid_map[int(r["pid"])]: (r["vol"] or 0) for r in pvol_rows if r["pid"] is not None}
     wstat = {r["team"]: r for r in status_rows}
     crec = {r["code"]: r for r in code_status}
     cfee = {r["code"]: (r["fees"] or 0) for r in fee_rows}
@@ -106,7 +108,7 @@ def main(dry_run=False):
             "milestones_done": m.get("milestones_done", ""), "milestones_total": m.get("milestones_total", ""),
             "url": p.get("github", ""), "description": m.get("description", ""),
             "uc_source": m.get("uc_source", ""),
-            "tx": proj_tx.get(key, 0), "volume_usd": "", "users": proj_users.get(key, 0),
+            "tx": proj_tx.get(key, 0), "volume_usd": proj_vol.get(key, 0), "users": proj_users.get(key, 0),
             "metric_source": ms if (key in proj_tx or key in proj_users) else "none",
         }
         tp_rows.append(row)
